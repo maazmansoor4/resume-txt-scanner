@@ -1,4 +1,5 @@
 uploads/*
 !uploads/.gitkeep
 *.sql
+!schema.sql
 *.txt
